@@ -2,7 +2,7 @@
 
 
 
-![DIAGRAMA ER](diagrama_ER_2.png)
+![DIAGRAMA ER](diagramaER2.png)
 
 
 

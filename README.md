@@ -52,8 +52,7 @@ create table tipoAsignatura(
 create table cursoEscolar(
   id int(10) primary key,
   anyo_inicio year(4) not null,
-  anyo_fin year(4) not null,
-  cuatrimestre tinyint(3) not null
+  anyo_fin year(4) not null
 );
 
 create table grado(

@@ -1949,5 +1949,3 @@ BEGIN
     VALUES (p_anyo_inicio, p_anyo_fin);
 END;
 ```
-
-Estos son ejemplos de vistas y procedimientos DML que podrían ser útiles en un sistema educativo para gestionar información sobre alumnos, profesores, asignaturas, etc. Si necesitas más detalles o tienes alguna otra pregunta, ¡no dudes en decirlo!
